@@ -22,3 +22,8 @@
 
 4.Разработанный класс (метод) задокументирован в wiki
 
+ <h5>Список ссылок</h5>
+
+  <a href="https://github.com/norowaretta/norowaretta">Ссылка на репозиторий</a>
+<a href="https://github.com/norowaretta/norowaretta/wiki">Ссылка на Wiki</a>
+<a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0">Ссылка на FMEA-диаграмму</a>
