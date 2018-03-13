@@ -2,7 +2,7 @@
 
 <h4>Задания на семестр</h4>
 
-<h5>Модуль 1 (26.02-11.03)<h5>
+<h5>Модуль 1 (26.02-11.03)</h5>
 
 1.Личная страница размещена в <имя>.github.io, в ней есть ссылка на выбранный проект и сам личный репозиторий
 
@@ -23,8 +23,8 @@
 
 4.Разработанный класс (метод) задокументирован в wiki
 
- <p style="color:#20B2AA"><h5>Список ссылок</h5></p>
+ <h5>Список ссылок</h5>
 
-  <a href="https://github.com/norowaretta/norowaretta">Ссылка на репозиторий</a>
-<a href="https://github.com/norowaretta/norowaretta/wiki">Ссылка на Wiki</a>
-<a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0">Ссылка на FMEA-диаграмму</a>
+ <p> <a href="https://github.com/norowaretta/norowaretta">Ссылка на репозиторий</a> <br>
+<a href="https://github.com/norowaretta/norowaretta/wiki">Ссылка на Wiki</a> <br>
+<a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0">Ссылка на FMEA-диаграмму</a> <br> </p>
