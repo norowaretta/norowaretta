@@ -31,6 +31,6 @@
  <p> <a href="https://github.com/norowaretta/norowaretta">Ссылка на репозиторий</a> <br>
 <a href="https://github.com/norowaretta/norowaretta/wiki">Ссылка на Wiki</a> <br>
 <a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7">Ссылка на FMEA-диаграмму</a> <br>
-<a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7">Ссылка на папку с заданием</a> <br>
- <a href="https://github.com/norowaretta/norowaretta/wiki/FMEA-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7">Ссылка на работающее задание</a> <br>
+<a href="https://github.com/norowaretta/norowaretta/tree/master/modulshop>Ссылка на папку с заданием"</a> <br>
+ <a href="https://github.com">Ссылка на работающее задание</a> <br>
 </p>
