@@ -8,6 +8,7 @@ body {
     color: darkred;
 }
 #container {
+box-shadow: -5px -4px 100px 0px #ffffff;
     width:400px; 
     height:200px; 
     margin:0 auto;
