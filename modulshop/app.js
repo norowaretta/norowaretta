@@ -1,6 +1,7 @@
 var App = function(){
 	this.modules = {
-		random: new RandGenerator()
+		random: new RandGenerator(),
+		shop: new ShopGenerator()
 	}
 
 	this.spec = {
