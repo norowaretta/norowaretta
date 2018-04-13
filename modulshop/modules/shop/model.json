@@ -1,0 +1,57 @@
+{
+	"name":"shoptest",
+	"top_arrow":[
+		{
+			"name":"rules"
+		}
+	],
+	"bottom_arrow":[
+		{
+			"name":"magazin",
+		},
+		{
+			"name":"potok",
+			
+		},
+
+	],
+	"left_arrow":[
+		{
+			"name":"application",
+			"properties":[
+				{
+					"kolvo":80
+				},
+				{
+					"time":11
+				}
+			 ,                     ,
+				{
+				    "potokTS":12000
+				}
+				,			
+				{
+				    "procentcelevoi":0.025
+				}
+				,
+				{
+				    "pcocentcelevoirand":0.005
+				}
+				,
+				{
+                      "srcheck":200				
+				}
+				,
+				{
+				    "risk":0.8
+				}
+							
+			]
+		}
+	],
+	"right_arrow":[
+		{
+			"name":"rezultat"
+		}
+	]
+}
