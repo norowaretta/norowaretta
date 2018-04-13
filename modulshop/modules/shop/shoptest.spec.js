@@ -93,5 +93,5 @@ describe("Доход канцелярского магазина", function() {
   });  
 });
 
-console.log('totaldohodrsk ' + totaldohodrsk);
+
 	
