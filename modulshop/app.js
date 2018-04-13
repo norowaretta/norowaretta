@@ -9,6 +9,7 @@ var App = function(){
 			
 		}
 	}
+	
 }
 
 var app = new App();
