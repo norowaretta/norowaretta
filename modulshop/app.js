@@ -6,6 +6,7 @@ var App = function(){
 	this.spec = {
 		start:function(){
 			mocha.run();
+			
 		}
 	}
 }
