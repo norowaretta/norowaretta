@@ -45,7 +45,6 @@ describe("Проходимость магазина", function() {
   it("Если у нас есть ТЦ и на долю отдельного магазина приходится поток 80 людей в час, то поток всего за 11 часов работы составит 880 людей", function() {
 	
 	
-	
   	var potokchas = sizepotok.model.left_arrow[0].properties[0].kolvo;
 	var timework = sizepotok.model.left_arrow[0].properties[1].time;
 	
