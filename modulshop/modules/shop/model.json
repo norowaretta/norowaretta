@@ -1,0 +1,36 @@
+{
+	"name":"shoptest",
+	"top_arrow":[
+		{
+			"name":"rules"
+		}
+	],
+	"bottom_arrow":[
+		{
+			"name":"magazin",
+		},
+		{
+			"name":"potok",
+			
+		},
+
+	],
+	"left_arrow":[
+		{
+			"name":"application",
+			"properties":[
+				{
+					"kolvo":80
+				},
+				{
+					"time":11
+				}
+			]
+		}
+	],
+	"right_arrow":[
+		{
+			"name":"rezultat"
+		}
+	]
+}
