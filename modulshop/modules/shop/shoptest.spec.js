@@ -84,8 +84,8 @@ describe("Доход канцелярского магазина", function() {
 	var totaldohodrsk = sizepotok.Calc(par1, par2, par3, par4, par5, par6, par7)
 	
 	
-	console.log('totaldohodrsk ' + totaldohodrsk);
-	console.log ( 'Что-нибудь' );
+	console.log('Проверим число (месячный доход с риском) тут:  ' + totaldohodrsk);
+	
 		
     assert.equal((totaldohodrsk == 372480), true);
 	
