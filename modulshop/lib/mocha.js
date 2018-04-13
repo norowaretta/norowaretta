@@ -1,6 +1,7 @@
 ;(function(){
 
 // CommonJS require()
+    
 
 function require(p){
     var path = require.resolve(p)
